@@ -1,9 +1,11 @@
 # simple-calc-iOS
-SimpleCalc-iOS Version
+# SimpleCalc-iOS Version
 classic "text field and buttons" display
+
 ten digit buttons (0, 1, 2, ... 9)
-operations add, sub, mul, div, mod
-equals button
+
+operations add, sub, mul, div, mod equals button
+
 when user enters number, then operation, then number, then equals, calculate result
 
 Add a few new (multi-operand) operations in
