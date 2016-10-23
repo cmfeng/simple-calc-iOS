@@ -44,7 +44,7 @@ class ViewController: UIViewController {
         if (n <= 1) {
             return 1
         }
-        return (n * factorial(n: n - 1))
+        return (n * factorial(n: (n - 1)))
     }
     //check if all the elements in the array are the same
     func sameOp(array: [String]) -> Bool{
@@ -113,6 +113,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func fact(_ sender: AnyObject) {
+        self.operands.append(self.cur)
         let l = self.operands.count
         if (l != 1 || self.operators.count != 0) {
             self.textField.text = "Invalid input: Only accept one number"
@@ -121,6 +122,8 @@ class ViewController: UIViewController {
             self.textField.text = String(result)
         }
         self.operands = []
+        self.cur = 0
+        self.operators = []
         
     }
     @IBAction func avg(_ sender: AnyObject) {

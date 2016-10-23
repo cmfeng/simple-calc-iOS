@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					49A4460D1DBAD4EC00AC49E1 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4C578987LL;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,8 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4C578987LL;
 				INFOPLIST_FILE = "simple-calc/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ischool.cmfeng.simple-calc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -273,8 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4C578987LL;
 				INFOPLIST_FILE = "simple-calc/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ischool.cmfeng.simple-calc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
