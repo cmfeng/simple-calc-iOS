@@ -172,6 +172,9 @@ class ViewController: UIViewController {
         } else {
             self.textField.text = "Not supported operation yet"
         }
+        self.operands = []
+        self.operators = []
+        self.cur = 0
         
     }
 

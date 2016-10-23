@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D5995F08597A4B0689B9FBBD8A759CB265EBCBCC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1DAE23FC12FCB25EFE149107E78560F41AAAB82C" : 9223372036854775807,
+    "D5995F08597A4B0689B9FBBD8A759CB265EBCBCC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "138D4DEE-DBB8-4121-A4EB-C6E46835C503",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1DAE23FC12FCB25EFE149107E78560F41AAAB82C" : "",
+    "D5995F08597A4B0689B9FBBD8A759CB265EBCBCC" : "simple-calc-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "simple-calc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "simple-calc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cmfeng\/simple-calc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DAE23FC12FCB25EFE149107E78560F41AAAB82C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cmfeng\/simple-calc-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D5995F08597A4B0689B9FBBD8A759CB265EBCBCC"
+    }
+  ]
+}
